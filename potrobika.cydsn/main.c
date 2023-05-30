@@ -41,7 +41,9 @@ else
 uint32_t lastTime=0;
  uint8_t MYTime(){
         uint32_t now=CySysTickGetValue();
-        if(now-lastTime>100){return 1;}
+        if(now-lastTime>100){
+            lastTime=now;
+            return 1;}
         
         return 0;}
 
@@ -66,7 +68,7 @@ LEFT_PWM_Start();
 CySysTickStart();
 ADC_pot_Start();
 //ADC_SARANAL_Start();
-//LCD_Start();
+LCD_Start();
 setSpeeds(0,0);
     /* Place your initialization/startup code here (e.g. MyInst_Start()) */
 //valtozok
@@ -108,9 +110,9 @@ int startstat=0;
             potvalue=(pot/1023)*100;//intervallum modosito 1023->255
             if(potvalue<1){potvalue=1;}//biztositas felt
             if(potvalue>99){potvalue=100;}//biztositas felt
-            
-           
-         //  LCD_PrintHexUint8(States);
+         }   
+           LCD_PrintHexUint16(potvalue);
+           LCD_PrintHexUint8(States);
             
             switch(States)
         { case STRAIT:setSpeeds(80*potvalue*0.011,80*potvalue*0.011);
@@ -129,10 +131,10 @@ int startstat=0;
         break;
         default: setSpeeds(0,0);
         break;
-        }  
+          
         }
         if(MYTime()){;/*100 ms eltelte utan}*/}
-     //   LCD_ClearDisplay; 
+        LCD_ClearDisplay(); 
         BLED3_Write(startstat);
     }
 }

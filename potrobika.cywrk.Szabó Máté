@@ -35,7 +35,44 @@
 <v>potrobika\potrobika\Generated_Source</v>
 <v>potrobika\potrobika\Generated_Source\PSoC5</v>
 </ExpandedNodeIds>
-<VisibleNodeIds />
+<VisibleNodeIds>
+<v>potrobika</v>
+<v>potrobika\potrobika</v>
+<v>potrobika\potrobika\TopDesign</v>
+<v>potrobika\potrobika\potrobika.cydwr</v>
+<v>potrobika\potrobika\potrobika.cydwr\Pins</v>
+<v>potrobika\potrobika\potrobika.cydwr\Analog</v>
+<v>potrobika\potrobika\potrobika.cydwr\Clocks</v>
+<v>potrobika\potrobika\potrobika.cydwr\Interrupts</v>
+<v>potrobika\potrobika\potrobika.cydwr\DMA</v>
+<v>potrobika\potrobika\potrobika.cydwr\System</v>
+<v>potrobika\potrobika\potrobika.cydwr\Directives</v>
+<v>potrobika\potrobika\potrobika.cydwr\Flash Security</v>
+<v>potrobika\potrobika\potrobika.cydwr\EEPROM</v>
+<v>potrobika\potrobika\Header Files</v>
+<v>potrobika\potrobika\Header Files\cyapicallbacks.h</v>
+<v>potrobika\potrobika\Source Files</v>
+<v>potrobika\potrobika\Source Files\main.c</v>
+<v>potrobika\potrobika\Generated_Source</v>
+<v>potrobika\potrobika\Generated_Source\PSoC5</v>
+<v>potrobika\potrobika\Generated_Source\PSoC5\ADC_pot</v>
+<v>potrobika\potrobika\Generated_Source\PSoC5\ADC_pot_Bypass</v>
+<v>potrobika\potrobika\Generated_Source\PSoC5\ADC_pot_IRQ</v>
+<v>potrobika\potrobika\Generated_Source\PSoC5\ADC_pot_theACLK</v>
+<v>potrobika\potrobika\Generated_Source\PSoC5\ADC_SARANAL</v>
+<v>potrobika\potrobika\Generated_Source\PSoC5\ADC_SARANAL_FinalBuf</v>
+<v>potrobika\potrobika\Generated_Source\PSoC5\ADC_SARANAL_IntClock</v>
+<v>potrobika\potrobika\Generated_Source\PSoC5\ADC_SARANAL_IRQ</v>
+<v>potrobika\potrobika\Generated_Source\PSoC5\ADC_SARANAL_SAR</v>
+<v>potrobika\potrobika\Generated_Source\PSoC5\ADC_SARANAL_TempBuf</v>
+<v>potrobika\potrobika\Generated_Source\PSoC5\BLED3</v>
+<v>potrobika\potrobika\Generated_Source\PSoC5\BSTARTGOMB</v>
+<v>potrobika\potrobika\Generated_Source\PSoC5\BSTOPGOMB</v>
+<v>potrobika\potrobika\Generated_Source\PSoC5\Clock_1</v>
+<v>potrobika\potrobika\Generated_Source\PSoC5\cy_boot</v>
+<v>potrobika\potrobika\Generated_Source\PSoC5\Em_EEPROM_Dynamic</v>
+<v>potrobika\potrobika\Generated_Source\PSoC5\IR_BBA</v>
+</VisibleNodeIds>
 </CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
 <CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
 <ExpandedNodeIds>
@@ -44,7 +81,12 @@
 <v>potrobika\potrobika\TopDesign</v>
 <v>potrobika\potrobika\TopDesign\TopDesign.cysch</v>
 </ExpandedNodeIds>
-<VisibleNodeIds />
+<VisibleNodeIds>
+<v>potrobika</v>
+<v>potrobika\potrobika</v>
+<v>potrobika\potrobika\TopDesign</v>
+<v>potrobika\potrobika\TopDesign\TopDesign.cysch</v>
+</VisibleNodeIds>
 </CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
 <CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
 <ExpandedNodeIds>
@@ -113,7 +155,10 @@
 <v>potrobika\potrobika\potrobika.rpt</v>
 <v>potrobika\potrobika\potrobika_timing.html</v>
 </ExpandedNodeIds>
-<VisibleNodeIds />
+<VisibleNodeIds>
+<v>potrobika</v>
+<v>potrobika\potrobika</v>
+</VisibleNodeIds>
 </CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
 </TreeStates>
 <TreeKeysV2>
@@ -139,7 +184,24 @@
 <v>potrobika\potrobika\PWM_v3_30</v>
 <v>potrobika\potrobika\PWM_v3_30\PWM_v3_30.pdf</v>
 </ExpandedNodeIds>
-<VisibleNodeIds />
+<VisibleNodeIds>
+<v>potrobika</v>
+<v>potrobika\potrobika</v>
+<v>potrobika\potrobika\PSoC 5LP Architecture TRM</v>
+<v>potrobika\potrobika\CY8C58LP Family Datasheet</v>
+<v>potrobika\potrobika\System Reference Guides</v>
+<v>potrobika\potrobika\System Reference Guides\cy_boot_v5_70</v>
+<v>potrobika\potrobika\ADC_SAR_SEQ_v2_10.pdf</v>
+<v>potrobika\potrobika\ADC_SAR_v3_10.pdf</v>
+<v>potrobika\potrobika\CharLCD_v2_20.pdf</v>
+<v>potrobika\potrobika\cy_clock_v2_20.pdf</v>
+<v>potrobika\potrobika\cy_constant_v1_0</v>
+<v>potrobika\potrobika\cy_constant_v1_0\cy_constant_v1_0.pdf</v>
+<v>potrobika\potrobika\cy_pins_v2_20</v>
+<v>potrobika\potrobika\cy_pins_v2_20\cy_pins_v2_20.pdf</v>
+<v>potrobika\potrobika\PWM_v3_30</v>
+<v>potrobika\potrobika\PWM_v3_30\PWM_v3_30.pdf</v>
+</VisibleNodeIds>
 </CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
 </TreeStatesV2>
 </CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35>
