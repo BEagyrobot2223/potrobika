@@ -1,0 +1,6 @@
+C:\beagyazott rendszerek\potrobika\potrobika.cydsn\potrobika.cyprj|5b4b25c2-5b72-478a-b26a-898b28346ea6
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|02f50f5a-1c29-4577-a0b2-60234d21572f
+C:\Users\Szabó Máté\Documents\PSoC Creator\4.2\Downloads ( 4.2).cylib\Downloads ( 4.2).cyprj|d303723b-8bdf-4038-9580-db77e523ce99
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|7644937e-c0fb-4346-8635-e4750e753126
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|0467bf09-7b7f-4073-93bb-89e57aff3fad
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|8834ecf2-0b26-4d6b-ae52-784288417d95

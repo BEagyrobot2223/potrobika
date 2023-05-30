@@ -1,0 +1,10 @@
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/CortexM3/ARM_GCC_541/Debug/CyBootAsmGnu.o : C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/CyBootAsmGnu.s C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cydevicegnu.inc C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cydevicegnu_trm.inc C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cyfittergnu.inc 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/CyBootAsmGnu.s : 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cydevicegnu.inc : 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cydevicegnu_trm.inc : 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cyfittergnu.inc : 
+

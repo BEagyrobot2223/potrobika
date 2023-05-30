@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CyXmlSerializer>
+<!--This file is machine generated and read. It is not intended to be edited by hand.-->
+<!--Due to this, there is no schema for this file.-->
+<CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21 type_name="CyDesigner.Common.ProjMgmt.Model.CyPrjMgmtWrkspcCustomData" version="4">
+<CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997 type_name="CyDesigner.Common.Base.CyCustomData" version="2">
+<userData>
+<dataGuid v="1b906a0f-a7b6-4e4d-a428-82f98b53cb35">
+<CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35 type_name="CyDesigner.Common.ProjMgmt.GUI.CyExplorerWindow+CyExplorerWindowState" version="3" SelectedTab="Source">
+<TreeKeys>
+<v>Source</v>
+<v>Components</v>
+<v>Output</v>
+</TreeKeys>
+<TreeStates>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>potrobika</v>
+<v>potrobika\potrobika</v>
+<v>potrobika\potrobika\TopDesign</v>
+<v>potrobika\potrobika\potrobika.cydwr</v>
+<v>potrobika\potrobika\potrobika.cydwr\Pins</v>
+<v>potrobika\potrobika\potrobika.cydwr\Analog</v>
+<v>potrobika\potrobika\potrobika.cydwr\Clocks</v>
+<v>potrobika\potrobika\potrobika.cydwr\Interrupts</v>
+<v>potrobika\potrobika\potrobika.cydwr\DMA</v>
+<v>potrobika\potrobika\potrobika.cydwr\System</v>
+<v>potrobika\potrobika\potrobika.cydwr\Directives</v>
+<v>potrobika\potrobika\potrobika.cydwr\Flash Security</v>
+<v>potrobika\potrobika\potrobika.cydwr\EEPROM</v>
+<v>potrobika\potrobika\Header Files</v>
+<v>potrobika\potrobika\Header Files\cyapicallbacks.h</v>
+<v>potrobika\potrobika\Source Files</v>
+<v>potrobika\potrobika\Source Files\main.c</v>
+<v>potrobika\potrobika\Generated_Source</v>
+<v>potrobika\potrobika\Generated_Source\PSoC5</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>potrobika</v>
+<v>potrobika\potrobika</v>
+<v>potrobika\potrobika\TopDesign</v>
+<v>potrobika\potrobika\potrobika.cydwr</v>
+<v>potrobika\potrobika\potrobika.cydwr\Pins</v>
+<v>potrobika\potrobika\potrobika.cydwr\Analog</v>
+<v>potrobika\potrobika\potrobika.cydwr\Clocks</v>
+<v>potrobika\potrobika\potrobika.cydwr\Interrupts</v>
+<v>potrobika\potrobika\potrobika.cydwr\DMA</v>
+<v>potrobika\potrobika\potrobika.cydwr\System</v>
+<v>potrobika\potrobika\potrobika.cydwr\Directives</v>
+<v>potrobika\potrobika\potrobika.cydwr\Flash Security</v>
+<v>potrobika\potrobika\potrobika.cydwr\EEPROM</v>
+<v>potrobika\potrobika\Header Files</v>
+<v>potrobika\potrobika\Header Files\cyapicallbacks.h</v>
+<v>potrobika\potrobika\Source Files</v>
+<v>potrobika\potrobika\Source Files\main.c</v>
+<v>potrobika\potrobika\Generated_Source</v>
+<v>potrobika\potrobika\Generated_Source\PSoC5</v>
+<v>potrobika\potrobika\Generated_Source\PSoC5\ADC_pot</v>
+<v>potrobika\potrobika\Generated_Source\PSoC5\ADC_pot_Bypass</v>
+<v>potrobika\potrobika\Generated_Source\PSoC5\ADC_pot_IRQ</v>
+<v>potrobika\potrobika\Generated_Source\PSoC5\ADC_pot_theACLK</v>
+<v>potrobika\potrobika\Generated_Source\PSoC5\ADC_SARANAL</v>
+<v>potrobika\potrobika\Generated_Source\PSoC5\ADC_SARANAL_FinalBuf</v>
+<v>potrobika\potrobika\Generated_Source\PSoC5\ADC_SARANAL_IntClock</v>
+<v>potrobika\potrobika\Generated_Source\PSoC5\ADC_SARANAL_IRQ</v>
+<v>potrobika\potrobika\Generated_Source\PSoC5\ADC_SARANAL_SAR</v>
+<v>potrobika\potrobika\Generated_Source\PSoC5\ADC_SARANAL_TempBuf</v>
+<v>potrobika\potrobika\Generated_Source\PSoC5\BLED3</v>
+<v>potrobika\potrobika\Generated_Source\PSoC5\BSTARTGOMB</v>
+<v>potrobika\potrobika\Generated_Source\PSoC5\BSTOPGOMB</v>
+<v>potrobika\potrobika\Generated_Source\PSoC5\Clock_1</v>
+<v>potrobika\potrobika\Generated_Source\PSoC5\cy_boot</v>
+<v>potrobika\potrobika\Generated_Source\PSoC5\Em_EEPROM_Dynamic</v>
+<v>potrobika\potrobika\Generated_Source\PSoC5\IR_BBA</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>potrobika</v>
+<v>potrobika\potrobika</v>
+<v>potrobika\potrobika\TopDesign</v>
+<v>potrobika\potrobika\TopDesign\TopDesign.cysch</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>potrobika</v>
+<v>potrobika\potrobika</v>
+<v>potrobika\potrobika\TopDesign</v>
+<v>potrobika\potrobika\TopDesign\TopDesign.cysch</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>potrobika</v>
+<v>potrobika\potrobika</v>
+<v>potrobika\potrobika\CortexM3</v>
+<v>potrobika\potrobika\CortexM3\ARM_GCC_541</v>
+<v>potrobika\potrobika\CortexM3\ARM_GCC_541\Debug</v>
+<v>potrobika\potrobika\CortexM3\ARM_GCC_541\Debug\Listing Files</v>
+<v>potrobika\potrobika\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_pot.lst</v>
+<v>potrobika\potrobika\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_pot_Bypass.lst</v>
+<v>potrobika\potrobika\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_pot_INT.lst</v>
+<v>potrobika\potrobika\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_pot_IRQ.lst</v>
+<v>potrobika\potrobika\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_pot_PM.lst</v>
+<v>potrobika\potrobika\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_pot_theACLK.lst</v>
+<v>potrobika\potrobika\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_SARANAL.lst</v>
+<v>potrobika\potrobika\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_SARANAL_FinalBuf_dma.lst</v>
+<v>potrobika\potrobika\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_SARANAL_INT.lst</v>
+<v>potrobika\potrobika\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_SARANAL_IntClock.lst</v>
+<v>potrobika\potrobika\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_SARANAL_IRQ.lst</v>
+<v>potrobika\potrobika\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_SARANAL_PM.lst</v>
+<v>potrobika\potrobika\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_SARANAL_SAR.lst</v>
+<v>potrobika\potrobika\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_SARANAL_SAR_INT.lst</v>
+<v>potrobika\potrobika\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_SARANAL_SAR_PM.lst</v>
+<v>potrobika\potrobika\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_SARANAL_TempBuf_dma.lst</v>
+<v>potrobika\potrobika\CortexM3\ARM_GCC_541\Debug\Listing Files\BLED3.lst</v>
+<v>potrobika\potrobika\CortexM3\ARM_GCC_541\Debug\Listing Files\BSTARTGOMB.lst</v>
+<v>potrobika\potrobika\CortexM3\ARM_GCC_541\Debug\Listing Files\BSTOPGOMB.lst</v>
+<v>potrobika\potrobika\CortexM3\ARM_GCC_541\Debug\Listing Files\Clock_1.lst</v>
+<v>potrobika\potrobika\CortexM3\ARM_GCC_541\Debug\Listing Files\Cm3Start.lst</v>
+<v>potrobika\potrobika\CortexM3\ARM_GCC_541\Debug\Listing Files\cy_em_eeprom.lst</v>
+<v>potrobika\potrobika\CortexM3\ARM_GCC_541\Debug\Listing Files\CyBootAsmGnu.lst</v>
+<v>potrobika\potrobika\CortexM3\ARM_GCC_541\Debug\Listing Files\CyDmac.lst</v>
+<v>potrobika\potrobika\CortexM3\ARM_GCC_541\Debug\Listing Files\cyfitter_cfg.lst</v>
+<v>potrobika\potrobika\CortexM3\ARM_GCC_541\Debug\Listing Files\CyFlash.lst</v>
+<v>potrobika\potrobika\CortexM3\ARM_GCC_541\Debug\Listing Files\CyLib.lst</v>
+<v>potrobika\potrobika\CortexM3\ARM_GCC_541\Debug\Listing Files\cymetadata.lst</v>
+<v>potrobika\potrobika\CortexM3\ARM_GCC_541\Debug\Listing Files\cyPm.lst</v>
+<v>potrobika\potrobika\CortexM3\ARM_GCC_541\Debug\Listing Files\CySpc.lst</v>
+<v>potrobika\potrobika\CortexM3\ARM_GCC_541\Debug\Listing Files\cyutils.lst</v>
+<v>potrobika\potrobika\CortexM3\ARM_GCC_541\Debug\Listing Files\IR_BBA.lst</v>
+<v>potrobika\potrobika\CortexM3\ARM_GCC_541\Debug\Listing Files\IR_BLA.lst</v>
+<v>potrobika\potrobika\CortexM3\ARM_GCC_541\Debug\Listing Files\IR_BRA.lst</v>
+<v>potrobika\potrobika\CortexM3\ARM_GCC_541\Debug\Listing Files\IR_FFA.lst</v>
+<v>potrobika\potrobika\CortexM3\ARM_GCC_541\Debug\Listing Files\IR_FL1.lst</v>
+<v>potrobika\potrobika\CortexM3\ARM_GCC_541\Debug\Listing Files\IR_FLA.lst</v>
+<v>potrobika\potrobika\CortexM3\ARM_GCC_541\Debug\Listing Files\IR_FR2.lst</v>
+<v>potrobika\potrobika\CortexM3\ARM_GCC_541\Debug\Listing Files\IR_FRA.lst</v>
+<v>potrobika\potrobika\CortexM3\ARM_GCC_541\Debug\Listing Files\LCD.lst</v>
+<v>potrobika\potrobika\CortexM3\ARM_GCC_541\Debug\Listing Files\LCD_LCDPort.lst</v>
+<v>potrobika\potrobika\CortexM3\ARM_GCC_541\Debug\Listing Files\LCD_PM.lst</v>
+<v>potrobika\potrobika\CortexM3\ARM_GCC_541\Debug\Listing Files\LEFT_MOTOR_CONTROL.lst</v>
+<v>potrobika\potrobika\CortexM3\ARM_GCC_541\Debug\Listing Files\LEFT_MOTOR_DIR.lst</v>
+<v>potrobika\potrobika\CortexM3\ARM_GCC_541\Debug\Listing Files\LEFT_PWM.lst</v>
+<v>potrobika\potrobika\CortexM3\ARM_GCC_541\Debug\Listing Files\LEFT_PWM_PM.lst</v>
+<v>potrobika\potrobika\CortexM3\ARM_GCC_541\Debug\Listing Files\main.lst</v>
+<v>potrobika\potrobika\CortexM3\ARM_GCC_541\Debug\Listing Files\poti.lst</v>
+<v>potrobika\potrobika\CortexM3\ARM_GCC_541\Debug\Listing Files\Right_MOTOR_CONTROL.lst</v>
+<v>potrobika\potrobika\CortexM3\ARM_GCC_541\Debug\Listing Files\RIGHT_MOTOR_DIR.lst</v>
+<v>potrobika\potrobika\CortexM3\ARM_GCC_541\Debug\Listing Files\RIGHT_PWM.lst</v>
+<v>potrobika\potrobika\CortexM3\ARM_GCC_541\Debug\Listing Files\RIGHT_PWM_PM.lst</v>
+<v>potrobika\potrobika\CortexM3\ARM_GCC_541\Debug\potrobika.elf</v>
+<v>potrobika\potrobika\CortexM3\ARM_GCC_541\Debug\potrobika.hex</v>
+<v>potrobika\potrobika\CortexM3\ARM_GCC_541\Debug\potrobika.map</v>
+<v>potrobika\potrobika\potrobika.gpdsc</v>
+<v>potrobika\potrobika\potrobika.rpt</v>
+<v>potrobika\potrobika\potrobika_timing.html</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>potrobika</v>
+<v>potrobika\potrobika</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+</TreeStates>
+<TreeKeysV2>
+<v>Datasheet</v>
+</TreeKeysV2>
+<TreeStatesV2>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>potrobika</v>
+<v>potrobika\potrobika</v>
+<v>potrobika\potrobika\PSoC 5LP Architecture TRM</v>
+<v>potrobika\potrobika\CY8C58LP Family Datasheet</v>
+<v>potrobika\potrobika\System Reference Guides</v>
+<v>potrobika\potrobika\System Reference Guides\cy_boot_v5_70</v>
+<v>potrobika\potrobika\ADC_SAR_SEQ_v2_10.pdf</v>
+<v>potrobika\potrobika\ADC_SAR_v3_10.pdf</v>
+<v>potrobika\potrobika\CharLCD_v2_20.pdf</v>
+<v>potrobika\potrobika\cy_clock_v2_20.pdf</v>
+<v>potrobika\potrobika\cy_constant_v1_0</v>
+<v>potrobika\potrobika\cy_constant_v1_0\cy_constant_v1_0.pdf</v>
+<v>potrobika\potrobika\cy_pins_v2_20</v>
+<v>potrobika\potrobika\cy_pins_v2_20\cy_pins_v2_20.pdf</v>
+<v>potrobika\potrobika\PWM_v3_30</v>
+<v>potrobika\potrobika\PWM_v3_30\PWM_v3_30.pdf</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>potrobika</v>
+<v>potrobika\potrobika</v>
+<v>potrobika\potrobika\PSoC 5LP Architecture TRM</v>
+<v>potrobika\potrobika\CY8C58LP Family Datasheet</v>
+<v>potrobika\potrobika\System Reference Guides</v>
+<v>potrobika\potrobika\System Reference Guides\cy_boot_v5_70</v>
+<v>potrobika\potrobika\ADC_SAR_SEQ_v2_10.pdf</v>
+<v>potrobika\potrobika\ADC_SAR_v3_10.pdf</v>
+<v>potrobika\potrobika\CharLCD_v2_20.pdf</v>
+<v>potrobika\potrobika\cy_clock_v2_20.pdf</v>
+<v>potrobika\potrobika\cy_constant_v1_0</v>
+<v>potrobika\potrobika\cy_constant_v1_0\cy_constant_v1_0.pdf</v>
+<v>potrobika\potrobika\cy_pins_v2_20</v>
+<v>potrobika\potrobika\cy_pins_v2_20\cy_pins_v2_20.pdf</v>
+<v>potrobika\potrobika\PWM_v3_30</v>
+<v>potrobika\potrobika\PWM_v3_30\PWM_v3_30.pdf</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+</TreeStatesV2>
+</CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35>
+</dataGuid>
+</userData>
+</CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997>
+<Unloaded />
+<OpenDocs>
+<name v=".\potrobika.cydsn\TopDesign\TopDesign.cysch" />
+<name v=".\potrobika.cydsn\main.c" />
+<name v=".\potrobika.cydsn\potrobika.cydwr" />
+</OpenDocs>
+<OpenDocsLayout><![CDATA[<?xml version="1.0"?><!--
+
+  Actipro Docking/MDI for WinForms
+  Copyright (c) 2001-2016 Actipro Software LLC.  All rights reserved.
+  http://www.actiprosoftware.com
+
+--><DocumentLayout Version="1.0"><LayoutData><TabbedMdiRootContainer Orientation="Horizontal"><TabbedMdiContainer Size="1098, 495" SelectedTabbedMdiWindow="a7c02ea1-3ff0-483f-b9a2-a1c261c23a8d"><ToolWindow Key="Start Page:bd4649ab-da6b-4d04-a663-c722b8bf99db:Start Page" Guid="41034cb1-9efb-4662-b1fc-830e67af5888" /><DocumentWindow Key="C:\beagyazott rendszerek\potrobika\potrobika.cydsn\TopDesign\TopDesign.cysch" Guid="495b5346-e8d8-4c06-bdee-12fa156d1ce0" /><DocumentWindow Key="C:\beagyazott rendszerek\potrobika\potrobika.cydsn\main.c" Guid="a7c02ea1-3ff0-483f-b9a2-a1c261c23a8d" /><DocumentWindow Key="C:\beagyazott rendszerek\potrobika\potrobika.cydsn\potrobika.cydwr" Guid="97682b38-11fd-444a-a174-a11d43247851" /></TabbedMdiContainer></TabbedMdiRootContainer><FloatingContainers /></LayoutData></DocumentLayout>]]></OpenDocsLayout>
+<config v="" />
+<AutoUpdate v="true" />
+</CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21>
+</CyXmlSerializer>

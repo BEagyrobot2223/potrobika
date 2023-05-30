@@ -1,0 +1,342 @@
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/CortexM3/ARM_GCC_541/Debug/ADC_SARANAL.o : C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/ADC_SARANAL.c C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/ADC_SARANAL.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/ADC_SARANAL_FinalBuf_dma.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/ADC_SARANAL_IRQ.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/ADC_SARANAL_SAR.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/ADC_SARANAL_TempBuf_dma.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/CYDMAC.H C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/CYFITTER.H C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/CyFlash.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/CyLib.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/CySpc.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cyPm.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cydevice.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cydevice_trm.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cyfitter.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cytypes.h 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/ADC_SARANAL.c : 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/ADC_SARANAL.h : 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/ADC_SARANAL_FinalBuf_dma.h : 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/ADC_SARANAL_IRQ.h : 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/ADC_SARANAL_SAR.h : 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/ADC_SARANAL_TempBuf_dma.h : 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/CYDMAC.H : 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/CYFITTER.H : 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/CyFlash.h : 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/CyLib.h : 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/CySpc.h : 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cyPm.h : 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cydevice.h : 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cydevice_trm.h : 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cytypes.h : 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/CortexM3/ARM_GCC_541/Debug/ADC_SARANAL_FinalBuf_dma.o : C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/ADC_SARANAL_FinalBuf_dma.H C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/ADC_SARANAL_FinalBuf_dma.c C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/CYDMAC.H C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/CYFITTER.H C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/CYLIB.H C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/CyFlash.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/CyLib.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/CySpc.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cyPm.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cydevice.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cydevice_trm.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cyfitter.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cytypes.h 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/ADC_SARANAL_FinalBuf_dma.c : 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/CortexM3/ARM_GCC_541/Debug/ADC_SARANAL_INT.o : C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/ADC_SARANAL.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/ADC_SARANAL_FinalBuf_dma.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/ADC_SARANAL_INT.c C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/ADC_SARANAL_SAR.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/ADC_SARANAL_TempBuf_dma.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/CYDMAC.H C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/CYFITTER.H C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/CyFlash.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/CyLib.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/CySpc.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cyPm.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cydevice.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cydevice_trm.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cyfitter.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cytypes.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/cyapicallbacks.h 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/ADC_SARANAL_INT.c : 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/cyapicallbacks.h : 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/CortexM3/ARM_GCC_541/Debug/ADC_SARANAL_IRQ.o : C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/ADC_SARANAL_IRQ.c C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/ADC_SARANAL_IRQ.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/CyFlash.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/CyLib.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/CySpc.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cyPm.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cydevice.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cydevice_trm.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cyfitter.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cytypes.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/cyapicallbacks.h 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/ADC_SARANAL_IRQ.c : 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/CortexM3/ARM_GCC_541/Debug/ADC_SARANAL_IntClock.o : C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/ADC_SARANAL_IntClock.c C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/ADC_SARANAL_IntClock.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cydevice.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cydevice_trm.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cyfitter.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cytypes.h 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/ADC_SARANAL_IntClock.c : 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/ADC_SARANAL_IntClock.h : 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/CortexM3/ARM_GCC_541/Debug/ADC_SARANAL_PM.o : C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/ADC_SARANAL.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/ADC_SARANAL_FinalBuf_dma.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/ADC_SARANAL_IntClock.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/ADC_SARANAL_PM.c C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/ADC_SARANAL_SAR.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/ADC_SARANAL_TempBuf_dma.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/CYDMAC.H C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/CYFITTER.H C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/CyFlash.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/CyLib.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/CySpc.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cyPm.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cydevice.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cydevice_trm.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cyfitter.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cytypes.h 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/ADC_SARANAL_PM.c : 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/CortexM3/ARM_GCC_541/Debug/ADC_SARANAL_SAR.o : C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/ADC_SARANAL_SAR.c C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/ADC_SARANAL_SAR.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/CyFlash.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/CyLib.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/CySpc.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cyPm.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cydevice.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cydevice_trm.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cyfitter.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cytypes.h 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/ADC_SARANAL_SAR.c : 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/CortexM3/ARM_GCC_541/Debug/ADC_SARANAL_SAR_INT.o : C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/ADC_SARANAL_SAR.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/ADC_SARANAL_SAR_INT.c C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cydevice.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cydevice_trm.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cyfitter.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cytypes.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/cyapicallbacks.h 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/ADC_SARANAL_SAR_INT.c : 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/CortexM3/ARM_GCC_541/Debug/ADC_SARANAL_SAR_PM.o : C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/ADC_SARANAL_SAR.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/ADC_SARANAL_SAR_PM.c C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cydevice.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cydevice_trm.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cyfitter.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cytypes.h 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/ADC_SARANAL_SAR_PM.c : 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/CortexM3/ARM_GCC_541/Debug/ADC_SARANAL_TempBuf_dma.o : C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/ADC_SARANAL_TempBuf_dma.H C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/ADC_SARANAL_TempBuf_dma.c C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/CYDMAC.H C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/CYFITTER.H C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/CYLIB.H C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/CyFlash.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/CyLib.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/CySpc.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cyPm.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cydevice.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cydevice_trm.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cyfitter.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cytypes.h 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/ADC_SARANAL_TempBuf_dma.c : 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/CortexM3/ARM_GCC_541/Debug/ADC_pot.o : C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/ADC_pot.c C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/ADC_pot.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/ADC_pot_theACLK.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/CyFlash.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/CyLib.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/CySpc.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cyPm.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cydevice.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cydevice_trm.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cyfitter.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cytypes.h 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/ADC_pot.c : 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/ADC_pot.h : 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/ADC_pot_theACLK.h : 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/CortexM3/ARM_GCC_541/Debug/ADC_pot_Bypass.o : C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/ADC_pot_Bypass.c C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/ADC_pot_Bypass.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/ADC_pot_Bypass_aliases.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cydevice.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cydevice_trm.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cyfitter.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cypins.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cytypes.h 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/ADC_pot_Bypass.c : 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/ADC_pot_Bypass.h : 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/ADC_pot_Bypass_aliases.h : 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cypins.h : 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/CortexM3/ARM_GCC_541/Debug/ADC_pot_INT.o : C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/ADC_pot.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/ADC_pot_INT.c C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cydevice.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cydevice_trm.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cyfitter.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cytypes.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/cyapicallbacks.h 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/ADC_pot_INT.c : 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/CortexM3/ARM_GCC_541/Debug/ADC_pot_IRQ.o : C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/ADC_pot_IRQ.c C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/ADC_pot_IRQ.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/CyFlash.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/CyLib.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/CySpc.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cyPm.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cydevice.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cydevice_trm.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cyfitter.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cytypes.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/cyapicallbacks.h 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/ADC_pot_IRQ.c : 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/ADC_pot_IRQ.h : 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/CortexM3/ARM_GCC_541/Debug/ADC_pot_PM.o : C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/ADC_pot.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/ADC_pot_PM.c C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cydevice.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cydevice_trm.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cyfitter.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cytypes.h 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/ADC_pot_PM.c : 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/CortexM3/ARM_GCC_541/Debug/ADC_pot_theACLK.o : C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/ADC_pot_theACLK.c C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/ADC_pot_theACLK.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cydevice.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cydevice_trm.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cyfitter.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cytypes.h 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/ADC_pot_theACLK.c : 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/CortexM3/ARM_GCC_541/Debug/BLED3.o : C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/BLED3.c C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/BLED3.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/BLED3_aliases.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cydevice.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cydevice_trm.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cyfitter.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cypins.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cytypes.h 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/BLED3.c : 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/BLED3.h : 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/BLED3_aliases.h : 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/CortexM3/ARM_GCC_541/Debug/BSTARTGOMB.o : C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/BSTARTGOMB.c C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/BSTARTGOMB.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/BSTARTGOMB_aliases.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cydevice.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cydevice_trm.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cyfitter.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cypins.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cytypes.h 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/BSTARTGOMB.c : 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/BSTARTGOMB.h : 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/BSTARTGOMB_aliases.h : 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/CortexM3/ARM_GCC_541/Debug/BSTOPGOMB.o : C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/BSTOPGOMB.c C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/BSTOPGOMB.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/BSTOPGOMB_aliases.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cydevice.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cydevice_trm.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cyfitter.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cypins.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cytypes.h 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/BSTOPGOMB.c : 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/BSTOPGOMB.h : 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/BSTOPGOMB_aliases.h : 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/CortexM3/ARM_GCC_541/Debug/Clock_1.o : C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/Clock_1.c C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/Clock_1.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cydevice.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cydevice_trm.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cyfitter.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cytypes.h 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/Clock_1.c : 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/Clock_1.h : 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/CortexM3/ARM_GCC_541/Debug/Cm3Start.o : C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/Cm3Start.c C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/CyDmac.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/CyFlash.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/CyLib.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/CySpc.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cyPm.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cydevice.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cydevice_trm.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cyfitter.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cyfitter_cfg.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cytypes.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/cyapicallbacks.h 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/Cm3Start.c : 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cyfitter_cfg.h : 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/CortexM3/ARM_GCC_541/Debug/CyDmac.o : C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/CyDmac.c C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/CyDmac.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/CyFlash.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/CyLib.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/CySpc.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cyPm.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cydevice.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cydevice_trm.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cyfitter.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cytypes.h 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/CyDmac.c : 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/CortexM3/ARM_GCC_541/Debug/CyFlash.o : C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/CyFlash.c C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/CyFlash.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/CyLib.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/CySpc.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cyPm.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cydevice.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cydevice_trm.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cyfitter.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cytypes.h 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/CyFlash.c : 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/CortexM3/ARM_GCC_541/Debug/CyLib.o : C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/CyFlash.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/CyLib.c C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/CyLib.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/CySpc.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cyPm.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cydevice.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cydevice_trm.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cyfitter.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cytypes.h 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/CyLib.c : 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/CortexM3/ARM_GCC_541/Debug/CySpc.o : C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/CyFlash.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/CyLib.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/CySpc.c C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/CySpc.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cyPm.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cydevice.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cydevice_trm.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cyfitter.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cytypes.h 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/CySpc.c : 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/CortexM3/ARM_GCC_541/Debug/IR_BBA.o : C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/IR_BBA.c C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/IR_BBA.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/IR_BBA_aliases.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cydevice.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cydevice_trm.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cyfitter.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cypins.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cytypes.h 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/IR_BBA.c : 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/IR_BBA.h : 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/IR_BBA_aliases.h : 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/CortexM3/ARM_GCC_541/Debug/IR_BLA.o : C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/IR_BLA.c C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/IR_BLA.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/IR_BLA_aliases.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cydevice.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cydevice_trm.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cyfitter.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cypins.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cytypes.h 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/IR_BLA.c : 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/IR_BLA.h : 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/IR_BLA_aliases.h : 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/CortexM3/ARM_GCC_541/Debug/IR_BRA.o : C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/IR_BRA.c C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/IR_BRA.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/IR_BRA_aliases.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cydevice.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cydevice_trm.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cyfitter.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cypins.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cytypes.h 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/IR_BRA.c : 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/IR_BRA.h : 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/IR_BRA_aliases.h : 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/CortexM3/ARM_GCC_541/Debug/IR_FFA.o : C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/IR_FFA.c C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/IR_FFA.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/IR_FFA_aliases.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cydevice.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cydevice_trm.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cyfitter.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cypins.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cytypes.h 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/IR_FFA.c : 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/IR_FFA.h : 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/IR_FFA_aliases.h : 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/CortexM3/ARM_GCC_541/Debug/IR_FL1.o : C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/IR_FL1.c C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/IR_FL1.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/IR_FL1_aliases.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cydevice.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cydevice_trm.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cyfitter.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cypins.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cytypes.h 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/IR_FL1.c : 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/IR_FL1.h : 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/IR_FL1_aliases.h : 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/CortexM3/ARM_GCC_541/Debug/IR_FLA.o : C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/IR_FLA.c C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/IR_FLA.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/IR_FLA_aliases.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cydevice.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cydevice_trm.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cyfitter.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cypins.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cytypes.h 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/IR_FLA.c : 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/IR_FLA.h : 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/IR_FLA_aliases.h : 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/CortexM3/ARM_GCC_541/Debug/IR_FR2.o : C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/IR_FR2.c C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/IR_FR2.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/IR_FR2_aliases.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cydevice.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cydevice_trm.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cyfitter.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cypins.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cytypes.h 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/IR_FR2.c : 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/IR_FR2.h : 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/IR_FR2_aliases.h : 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/CortexM3/ARM_GCC_541/Debug/IR_FRA.o : C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/IR_FRA.c C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/IR_FRA.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/IR_FRA_aliases.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cydevice.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cydevice_trm.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cyfitter.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cypins.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cytypes.h 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/IR_FRA.c : 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/IR_FRA.h : 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/IR_FRA_aliases.h : 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/CortexM3/ARM_GCC_541/Debug/LCD.o : C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/CyFlash.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/CyLib.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/CySpc.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/LCD.c C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/LCD.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cyPm.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cydevice.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cydevice_trm.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cyfitter.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cytypes.h 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/LCD.c : 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/LCD.h : 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/CortexM3/ARM_GCC_541/Debug/LCD_LCDPort.o : C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/LCD_LCDPort.c C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/LCD_LCDPort.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/LCD_LCDPort_aliases.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cydevice.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cydevice_trm.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cyfitter.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cypins.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cytypes.h 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/LCD_LCDPort.c : 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/LCD_LCDPort.h : 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/LCD_LCDPort_aliases.h : 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/CortexM3/ARM_GCC_541/Debug/LCD_PM.o : C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/LCD.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/LCD_PM.c C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cydevice.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cydevice_trm.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cyfitter.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cytypes.h 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/LCD_PM.c : 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/CortexM3/ARM_GCC_541/Debug/LEFT_MOTOR_CONTROL.o : C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/LEFT_MOTOR_CONTROL.c C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/LEFT_MOTOR_CONTROL.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/LEFT_MOTOR_CONTROL_aliases.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cydevice.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cydevice_trm.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cyfitter.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cypins.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cytypes.h 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/LEFT_MOTOR_CONTROL.c : 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/LEFT_MOTOR_CONTROL.h : 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/LEFT_MOTOR_CONTROL_aliases.h : 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/CortexM3/ARM_GCC_541/Debug/LEFT_MOTOR_DIR.o : C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/LEFT_MOTOR_DIR.c C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/LEFT_MOTOR_DIR.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/LEFT_MOTOR_DIR_aliases.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cydevice.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cydevice_trm.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cyfitter.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cypins.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cytypes.h 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/LEFT_MOTOR_DIR.c : 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/LEFT_MOTOR_DIR.h : 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/LEFT_MOTOR_DIR_aliases.h : 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/CortexM3/ARM_GCC_541/Debug/LEFT_PWM.o : C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/CyFlash.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/CyLib.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/CySpc.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/LEFT_PWM.c C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/LEFT_PWM.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cyPm.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cydevice.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cydevice_trm.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cyfitter.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cytypes.h 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/LEFT_PWM.c : 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/LEFT_PWM.h : 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/CortexM3/ARM_GCC_541/Debug/LEFT_PWM_PM.o : C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/CyFlash.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/CyLib.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/CySpc.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/LEFT_PWM.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/LEFT_PWM_PM.c C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cyPm.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cydevice.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cydevice_trm.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cyfitter.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cytypes.h 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/LEFT_PWM_PM.c : 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/CortexM3/ARM_GCC_541/Debug/RIGHT_MOTOR_DIR.o : C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/RIGHT_MOTOR_DIR.c C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/RIGHT_MOTOR_DIR.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/RIGHT_MOTOR_DIR_aliases.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cydevice.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cydevice_trm.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cyfitter.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cypins.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cytypes.h 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/RIGHT_MOTOR_DIR.c : 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/RIGHT_MOTOR_DIR.h : 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/RIGHT_MOTOR_DIR_aliases.h : 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/CortexM3/ARM_GCC_541/Debug/RIGHT_PWM.o : C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/CyFlash.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/CyLib.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/CySpc.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/RIGHT_PWM.c C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/RIGHT_PWM.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cyPm.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cydevice.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cydevice_trm.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cyfitter.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cytypes.h 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/RIGHT_PWM.c : 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/RIGHT_PWM.h : 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/CortexM3/ARM_GCC_541/Debug/RIGHT_PWM_PM.o : C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/CyFlash.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/CyLib.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/CySpc.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/RIGHT_PWM.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/RIGHT_PWM_PM.c C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cyPm.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cydevice.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cydevice_trm.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cyfitter.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cytypes.h 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/RIGHT_PWM_PM.c : 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/CortexM3/ARM_GCC_541/Debug/Right_MOTOR_CONTROL.o : C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/Right_MOTOR_CONTROL.c C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/Right_MOTOR_CONTROL.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/Right_MOTOR_CONTROL_aliases.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cydevice.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cydevice_trm.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cyfitter.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cypins.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cytypes.h 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/Right_MOTOR_CONTROL.c : 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/Right_MOTOR_CONTROL.h : 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/Right_MOTOR_CONTROL_aliases.h : 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/CortexM3/ARM_GCC_541/Debug/cyPm.o : C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/CyFlash.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/CyLib.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/CySpc.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cyPm.c C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cyPm.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cydevice.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cydevice_trm.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cyfitter.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cytypes.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/cyapicallbacks.h 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cyPm.c : 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/CortexM3/ARM_GCC_541/Debug/cy_em_eeprom.o : C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/CyFlash.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/CyLib.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/CySpc.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cyPm.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cy_em_eeprom.c C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cy_em_eeprom.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cydevice.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cydevice_trm.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cyfitter.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cytypes.h 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cy_em_eeprom.c : 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cy_em_eeprom.h : 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/CortexM3/ARM_GCC_541/Debug/cyfitter_cfg.o : C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/CyFlash.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/CyLib.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/CySpc.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cyPm.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cydevice.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cydevice_trm.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cyfitter.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cyfitter_cfg.c C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cyfitter_cfg.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cytypes.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/cyapicallbacks.h 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cyfitter_cfg.c : 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/CortexM3/ARM_GCC_541/Debug/cymetadata.o : C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cymetadata.c 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cymetadata.c : 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/CortexM3/ARM_GCC_541/Debug/cyutils.o : C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cydevice.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cydevice_trm.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cyfitter.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cytypes.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cyutils.c 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cyutils.c : 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/CortexM3/ARM_GCC_541/Debug/poti.o : C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cydevice.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cydevice_trm.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cyfitter.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cypins.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cytypes.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/poti.c C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/poti.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/poti_aliases.h 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/poti.c : 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/poti.h : 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/poti_aliases.h : 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/CortexM3/ARM_GCC_541/Debug/main.o : C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cmsis_armcc.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cmsis_compiler.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cmsis_gcc.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/core_cm3.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/core_cm3_psoc5.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cydisabledsheets.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/project.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/ADC_SARANAL.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/ADC_SARANAL_FinalBuf_dma.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/ADC_SARANAL_IRQ.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/ADC_SARANAL_IntClock.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/ADC_SARANAL_SAR.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/ADC_SARANAL_TempBuf_dma.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/ADC_pot.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/ADC_pot_Bypass.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/ADC_pot_Bypass_aliases.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/ADC_pot_IRQ.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/ADC_pot_theACLK.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/BLED3.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/BLED3_aliases.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/BSTARTGOMB.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/BSTARTGOMB_aliases.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/BSTOPGOMB.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/BSTOPGOMB_aliases.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/CYDMAC.H C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/CYFITTER.H C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/Clock_1.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/CyDmac.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/CyFlash.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/CyLib.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/CySpc.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/IR_BBA.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/IR_BBA_aliases.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/IR_BLA.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/IR_BLA_aliases.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/IR_BRA.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/IR_BRA_aliases.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/IR_FFA.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/IR_FFA_aliases.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/IR_FL1.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/IR_FL1_aliases.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/IR_FLA.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/IR_FLA_aliases.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/IR_FR2.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/IR_FR2_aliases.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/IR_FRA.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/IR_FRA_aliases.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/LCD.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/LCD_LCDPort.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/LCD_LCDPort_aliases.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/LEFT_MOTOR_CONTROL.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/LEFT_MOTOR_CONTROL_aliases.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/LEFT_MOTOR_DIR.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/LEFT_MOTOR_DIR_aliases.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/LEFT_PWM.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/RIGHT_MOTOR_DIR.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/RIGHT_MOTOR_DIR_aliases.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/RIGHT_PWM.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/Right_MOTOR_CONTROL.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/Right_MOTOR_CONTROL_aliases.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cyPm.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cy_em_eeprom.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cydevice.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cydevice_trm.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cyfitter.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cyfitter_cfg.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cypins.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cytypes.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/poti.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/poti_aliases.h C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/main.c 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cmsis_armcc.h : 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cmsis_compiler.h : 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cmsis_gcc.h : 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/core_cm3.h : 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/core_cm3_psoc5.h : 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/cydisabledsheets.h : 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/Generated_Source/PSoC5/project.h : 
+
+C:/beagyazott\ rendszerek/potrobika/potrobika.cydsn/main.c : 
+
